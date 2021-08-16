@@ -24,5 +24,5 @@ Note: Commits and PRs from private work repositories are not shown.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenxchn&layout=compact&exclude_repo=InstagramClone"/>
 </a>
 <a href="https://github.com/wenxchn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wenxchn&custom_title=Github+Stats&count_private=true&hide=issues"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wenxchn&custom_title=Github+Stats&count_private=true&hide=issues&include_all_commits=true"/>
 </a>
