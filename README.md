@@ -4,7 +4,7 @@
 
 ### Hey there 👋, I'm Wenxuan.
 
-I'm a rising senior at the University of Pennsylvania and a software engineer. I'm passionate about React web development and React Native mobile app development. I'm currently seeking a summer internship for Summer 2022 which hopefully transitions into a full-time position afterward.
+I'm a rising senior at the University of Pennsylvania and a software engineer. I'm passionate about React web development and React Native mobile app development. I'm currently seeking a summer internship/grad position for Summer 2022.
 
 ![React Web and Mobile Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
 
