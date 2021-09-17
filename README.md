@@ -13,7 +13,7 @@ I'm a rising senior at the University of Pennsylvania and a software engineer. I
 * </> JavaScript (ES6) | HTML | CSS
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
 * 🛢 MongoDB | Firebase | Google Cloud Platform
-* 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | PyCharm | GitKraken
+* 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | GitKraken
 * 🎨 Figma | Adobe Photoshop
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper
 * ⚙️ Node | jQuery | Redux | API Usage | Web Scraping | ESLint | Prettier
