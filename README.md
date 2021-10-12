@@ -16,7 +16,7 @@ I'm a senior at the University of Pennsylvania and a software engineer. I'm pass
 * 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | GitKraken
 * 🎨 Figma | Adobe Photoshop
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper
-* ⚙️ Node | jQuery | Redux | GatsbyJS | API Usage | Web Scraping | ESLint | Prettier
+* ⚙️ Node | Express | jQuery | Redux | GatsbyJS | API Usage | Web Scraping | ESLint | Prettier
 ## Stats
 Note: Commits and PRs from private work repositories are not shown.
 
