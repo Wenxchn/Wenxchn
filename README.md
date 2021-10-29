@@ -4,7 +4,7 @@
 
 ### Hey there 👋, I'm Wenxuan.
 
-I'm a senior at the University of Pennsylvania and a software engineer. I'm passionate about React web development and React Native mobile app development. In my free time, I enjoy learning new technologies through Udemy courses. As such, I'm currently learning SQL and GraphQL. I'm also currently seeking a new grad position for Summer 2022 in New York, San Francisco, Seattle, or Los Angeles.
+I'm a senior at the University of Pennsylvania and a software engineer. I'm passionate about React web development and React Native mobile app development. In my free time, I enjoy learning new technologies through Udemy courses. As such, I'm currently learning MySQL and GraphQL. I'm also currently seeking a new grad position for Summer 2022 in New York, San Francisco, Seattle, or Los Angeles.
 
 ![React Web and Mobile Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
 
