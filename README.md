@@ -14,7 +14,7 @@ I'm a senior at the University of Pennsylvania and a software engineer. I'm pass
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
 * 🛢 MongoDB | Firebase | Google Cloud Platform
 * 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | GitKraken
-* 🎨 Figma | Adobe Photoshop
+* 🎨 Figma | Adobe Photoshop | Pixlr
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper
 * ⚙️ Node | Express | jQuery | Redux | GatsbyJS | StripeJS | API Usage | Web Scraping | ESLint | Prettier
 ## Stats
