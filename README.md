@@ -5,7 +5,7 @@
 
 ### Hey there 👋, I'm Wenxuan.
 
-Hey there 👋, I'm Wenxuan. I'm a senior at the University of Pennsylvania and a software engineer. I'm passionate about React web development and React Native mobile app development. I plan to continue my venture full-time after graduating.
+I'm a senior at the University of Pennsylvania and a software engineer. I'm passionate about React web development and React Native mobile app development. I plan to continue my venture full-time after graduating.
 
 ![React Web and Mobile Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
 
