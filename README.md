@@ -5,7 +5,7 @@
 
 ### Hey there 👋, I'm Wenxuan.
 
-I'm a senior at the University of Pennsylvania and a fullstack software engineer. I'm passionate about React web development, React Native mobile app development, and building products. Social networks and popular media from East Asia have always fascinated me since I was little. As such, I plan to continue my venture full-time after graduating.
+I'm a senior at the University of Pennsylvania. I'm passionate about building products with React and React Native, as well as, social networks and East Asian popular media. As such, I plan to continue my venture full-time after graduating.
 
 ![React Web and Mobile Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
 
