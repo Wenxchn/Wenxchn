@@ -5,7 +5,7 @@
 
 ### Hey there 👋, I'm Wenxuan.
 
-I'm a senior at the University of Pennsylvania. I'm passionate about building products with React and React Native, as well as, social networks and East Asian popular media. As such, I plan to continue my venture full-time after graduating.
+I'm a senior at the University of Pennsylvania. I'm passionate about building products with React and React Native, as well as, social networks and East Asian popular media. As such, I've previously built web and mobile apps involving anime and boba. After graduation, I plan to continue my full-time venture building a KPop and KDrama super app!
 
 ![React Web and Mobile Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
 
