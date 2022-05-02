@@ -1,11 +1,7 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/wenxchn)   -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wenxchn/)
 
-
-
-### Hey there 👋, I'm Wenxuan.
-
-I'm a senior at the University of Pennsylvania. I'm passionate about building products with React and React Native, as well as, social networks and East Asian popular culture. As such, I've previously built web and mobile apps involving anime, manga, and boba. After graduation, I plan to continue my venture full-time, building the world's first KPop and KDrama super app!
+Passionate about building products with React and React Native, as well as, social networks and East Asian popular culture. Previously built web and mobile apps involving anime, manga, and boba. Pursuing my venture full-time, building the world's first KPop and KDrama super app! Motivated to make a direct impact in the world.
 
 ![React Web and Mobile Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
 
