@@ -15,7 +15,6 @@ Passionate about building products with React and React Native, as well as, soci
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper
 * ⚙️ Node | Express | jQuery | Redux | GatsbyJS | StripeJS | API Usage | Web Scraping | ESLint | Prettier
 ## Stats
-Note: Commits and PRs from private work repositories are not shown.
 
 <a href="https://github.com/wenxchn">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wenxchn&custom_title=Github+Stats&count_private=true&hide=issues&include_all_commits=true"/>
