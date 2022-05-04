@@ -14,8 +14,3 @@ Passionate about building products with React and React Native, as well as, soci
 * 🎨 Figma | Adobe Photoshop | Pixlr
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper
 * ⚙️ Node | Express | jQuery | Redux | GatsbyJS | StripeJS | API Usage | Web Scraping | ESLint | Prettier
-## Stats
-
-<a href="https://github.com/wenxchn">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wenxchn&custom_title=Github+Stats&count_private=true&hide=issues&include_all_commits=true"/>
-</a>
