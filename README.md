@@ -13,4 +13,4 @@ Passionate about building products with React and React Native, as well as, soci
 * 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | GitKraken
 * 🎨 Figma | Adobe Photoshop | Pixlr
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper
-* ⚙️ Node | Express | jQuery | Redux | GatsbyJS | StripeJS | API Usage | Web Scraping | ESLint | Prettier
+* ⚙️ Node | Express | jQuery | Redux | GatsbyJS | StripeJS
