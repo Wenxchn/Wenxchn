@@ -6,9 +6,11 @@ Passionate about building products with React and React Native, startups, ventur
 ![React and React Native Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
 <img src="https://github.com/Wenxchn/Wenxchn/blob/main/UnicornClub.png" width="700">
  
-A book that I recommend!
+## Book and Podcast Recommendation
 
 <img src="https://github.com/Wenxchn/Wenxchn/blob/main/TheColdStart.jpg" width="700">
+
+<img src="https://github.com/Wenxchn/Wenxchn/blob/main/TwentyVC.JPG" width="700">
 
 ## Skills
 * ⚛ React | React Native
