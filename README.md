@@ -4,7 +4,6 @@
 Passionate about building products with React and React Native, startups, venture capital, scaling network effects, and East Asian popular culture.
 
 ![React and React Native Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
-<img src="https://github.com/Wenxchn/Wenxchn/blob/main/UnicornClub.png" width="700">
  
 ## Book and Podcast Recommendation
 
