@@ -1,7 +1,7 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/wenxchn)   -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wenxchn/)
 
-Passionate about building products with React and React Native, startups, venture capital, scaling network effects, and East Asian popular culture.
+Passionate about building products with React and React Native, startups, venture capital, network effects, and East Asian popular culture.
 
 ![React and React Native Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
  
