@@ -17,8 +17,9 @@ Passionate about building products with React and React Native, startups, ventur
 * ⚛ React | React Native
 * </> JavaScript (ES6) | HTML | CSS
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
-* 🛢 MongoDB | Firebase | Google Cloud Platform
+* 🛢 MongoDB | Firebase | Google Cloud Platform | MySQL
 * 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | GitKraken
 * 🎨 Figma | Adobe Photoshop | Pixlr
-* 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper
-* ⚙️ Node | Express | jQuery | Redux | GatsbyJS | Stripe | Tensorflow
+* 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper | MUI | Lottie
+* ⚙️ Node | Express | jQuery | Redux | GatsbyJS | Stripe | Tensorflow | Lodash | Moment
+* ☁️ Heroku | Netlify
