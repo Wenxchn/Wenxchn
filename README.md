@@ -21,5 +21,5 @@ Passionate about building products with React and React Native, startups, and ve
 * 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | GitKraken
 * 🎨 Figma | Adobe Photoshop | Pixlr
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper | MUI | Lottie
-* ⚙️ Node | Express | jQuery | Redux | GatsbyJS | Stripe | Tensorflow | Lodash | Moment
+* ⚙️ Node | Express | jQuery | Redux | GatsbyJS | Stripe | MUX | Tensorflow | Lodash | Moment
 * ☁️ Heroku | Netlify
