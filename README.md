@@ -16,11 +16,11 @@ Passionate about building products with React and React Native, startups, and ve
 ## Skills
 * ⚛ React | React Native
 * </> JavaScript (ES6) | HTML | CSS
-* ⧫ Solidity | Ethereum | Web3 | MetaMask | Blockchain
+* ⬛ Solidity | Ethereum | Web3 | MetaMask | Blockchain | Smart Contracts
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
 * 🛢 MongoDB | Firebase | Google Cloud Platform | MySQL
-* 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | GitKraken
+* 🔧 Visual Studio Code | Android Studio | IntelliJ | GitKraken | Remix Ethereum IDE
 * 🎨 Figma | Adobe Photoshop | Pixlr
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper | MUI | Lottie
-* ⚙️ Node | Express | jQuery | Redux | GatsbyJS | Stripe | MUX | Tensorflow | Lodash | Moment
+* ⚙️ Node | Express | Expo | jQuery | Redux | GatsbyJS | Stripe | MUX | Tensorflow | Lodash | Moment | YouTube v3 | APIs
 * ☁️ Heroku | Netlify
