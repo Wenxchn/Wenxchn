@@ -16,6 +16,7 @@ Passionate about building products with React and React Native, startups, and ve
 ## Skills
 * ⚛ React | React Native
 * </> JavaScript (ES6) | HTML | CSS
+* ⧫ Solidity | Ethereum | Web3 | MetaMask | Blockchain
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
 * 🛢 MongoDB | Firebase | Google Cloud Platform | MySQL
 * 🔧 Visual Studio Code | Expo | Android Studio | IntelliJ | GitKraken
