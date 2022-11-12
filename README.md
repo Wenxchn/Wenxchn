@@ -12,5 +12,5 @@ Passionate about building products with React and React Native, startups, and ve
 * 🔧 Visual Studio Code | Android Studio | IntelliJ | GitKraken | Remix Ethereum IDE
 * 🎨 Figma | Adobe Photoshop | Pixlr
 * 🖼️ Bootstrap | Tailwind | Bulma | React Native Paper | MUI | Lottie
-* ⚙️ Node | Express | Expo | jQuery | Redux | GatsbyJS | Stripe | MUX | Tensorflow | Lodash | Moment | YouTube v3 | APIs
+* ⚙️ Node | Express | Expo | jQuery | Redux | GatsbyJS | Stripe | MUX | Tensorflow | Lodash | Moment | YouTube v3
 * ☁️ Heroku | Netlify
