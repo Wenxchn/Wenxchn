@@ -3,16 +3,6 @@
 
 Passionate about building products with React and React Native, startups, and venture capital.
 
-![React and React Native Developer](https://github.com/Wenxchn/Wenxchn/blob/main/React.png)
- 
-## Book and Podcast Recommendations
-
-<img src="https://github.com/Wenxchn/Wenxchn/blob/main/TheColdStart.jpg" width="700">
-<img src="https://github.com/Wenxchn/Wenxchn/blob/main/ThePowerLaw.jpg" width="700">
-
-<img src="https://github.com/Wenxchn/Wenxchn/blob/main/ThisWeek.png" width="700">
-<img src="https://github.com/Wenxchn/Wenxchn/blob/main/TwentyVC.JPG" width="700">
-
 ## Skills
 * ⚛ React | React Native
 * </> JavaScript (ES6) | HTML | CSS
