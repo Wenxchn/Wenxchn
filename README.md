@@ -8,7 +8,7 @@ I listen to business audiobooks, documentaries, and podcasts when working. Ask m
 ## Skills
 * ⚛ React | React Native
 * </> JavaScript (ES6) | HTML | CSS
-* ⬛ Solidity | Ethereum | Web3 | MetaMask | Blockchain | Smart Contracts
+* ⬛ Solidity | Ethereum | Web3 | MetaMask | Blockchain | Smart Contracts | Encryption
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
 * 🛢 MongoDB | Firebase | Google Cloud Platform | MySQL
 * 🔧 Visual Studio Code | Android Studio | IntelliJ | GitKraken | Remix Ethereum IDE
