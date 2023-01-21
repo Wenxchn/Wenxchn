@@ -3,7 +3,7 @@
 
 Passionate about building products with React and React Native, startups, and venture capital.
 
-I listen to business audiobooks, documentaries, and podcasts when working. Ask me for recommendations!
+https://bookshelf.website/wenxchn
 
 ## Skills
 * ⚛ React | React Native
