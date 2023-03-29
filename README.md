@@ -10,7 +10,7 @@ https://bookshelf.website/wenxchn
 * </> JavaScript (ES6) | HTML | CSS
 * ⬛ Solidity | Ethereum | Web3 | MetaMask | Blockchain | Smart Contracts | Encryption
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
-* 🛢 MongoDB | Firebase | Google Cloud Platform | MySQL
+* 🛢 MongoDB | Firebase | Google Cloud Platform | MySQL | AWS
 * 🔧 Visual Studio Code | Android Studio | IntelliJ | GitKraken | Remix Ethereum IDE
 * 🎨 Figma | Adobe Photoshop | Pixlr
 * 🖼️ Bootstrap | Tailwind | Bulma | Semantic UI | React Native Paper | MUI | Lottie
