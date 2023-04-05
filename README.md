@@ -12,7 +12,7 @@ https://bookshelf.website/wenxchn
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
 * 🛢 MongoDB | Firebase | Google Cloud Platform | MySQL | AWS
 * 🔧 Visual Studio Code | Android Studio | IntelliJ | GitKraken | Remix Ethereum IDE
-* 🎨 Figma | Adobe Photoshop | Pixlr
+* 🎨 Figma | Adobe Photoshop | Pixlr | Davinci Resolve
 * 🖼️ Bootstrap | Tailwind | Bulma | Semantic UI | React Native Paper | MUI | Lottie
 * ⚙️ Node.js | Express | Expo | jQuery | Redux | Next.js | GatsbyJS | Stripe | MUX | Tensorflow | Lodash | Moment | YouTube v3
 * ☁️ Heroku | Netlify | Ngrok | LocalTunnel | Postman
