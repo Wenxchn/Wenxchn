@@ -1,10 +1,6 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/wenxchn)   -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/wenxchn/)
 
-Passionate about building products with React and React Native, startups, and venture capital.
-
-https://bookshelf.website/wenxchn
-
 ## Skills
 * ⚛ React | React Native
 * </> JavaScript (ES6) | HTML | CSS
