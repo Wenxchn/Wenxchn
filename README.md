@@ -4,11 +4,11 @@
 ## Skills
 * ⚛ React | React Native
 * </> JavaScript (ES6) | HTML | CSS
-* ⬛ Solidity | Ethereum | Web3 | MetaMask | Blockchain | Smart Contracts | Encryption
 * 💻 Git | Java | Kotlin | Python | C# | OCaml
-* 🛢 MongoDB | Firebase | Google Cloud Platform | MySQL | AWS
+* ⬛ Solidity | Ethereum | Web3 | MetaMask | Blockchain | Smart Contracts | Encryption
+* 🛢 Supabase | MongoDB | Firebase | Google Cloud Platform | MySQL | AWS
 * 🔧 Visual Studio Code | Android Studio | IntelliJ | GitKraken | Remix Ethereum IDE
-* 🎨 Figma | Adobe Photoshop | Pixlr | Davinci Resolve
-* 🖼️ Bootstrap | Tailwind | Bulma | Semantic UI | React Native Paper | MUI | Lottie
+* 🖼️ Figma | Stitch | Bootstrap | Tailwind | Bulma | Semantic UI | React Native Paper | MUI | Lottie
 * ⚙️ Node.js | Express | Expo | jQuery | Redux | Next.js | GatsbyJS | Stripe | MUX | Tensorflow | Lodash | Moment | YouTube v3
-* ☁️ Heroku | Netlify | Ngrok | LocalTunnel | Postman
+* ☁️ Vercel | Heroku | Netlify | Ngrok | LocalTunnel | Postman
+* 🤖 Claude | Codex
