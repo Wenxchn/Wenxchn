@@ -13,4 +13,4 @@
 * ☁️ Vercel | Heroku | Netlify | Ngrok | LocalTunnel | Postman
 * 🤖 Claude | Codex
 
-See my 2021 & 2022 Github Graph :) This was also before AI
+See my 2021, 2022, 2023 Github Graph :)
