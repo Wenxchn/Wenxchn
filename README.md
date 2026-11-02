@@ -12,3 +12,5 @@
 * ⚙️ Node.js | Express | Expo | jQuery | Redux | Next.js | GatsbyJS | Stripe | MUX | Tensorflow | Lodash | Moment | YouTube v3
 * ☁️ Vercel | Heroku | Netlify | Ngrok | LocalTunnel | Postman
 * 🤖 Claude | Codex
+
+See my 2022 Github Chart :) Pre-AI
